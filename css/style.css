@@ -1,0 +1,155 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #EDEFF5;
+}
+
+.img_bg {
+    background-image: url("../img/a2936c15c29d65c71ef7515702135e5c.jpg");
+    min-height: 300px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rgba {
+    background-color: rgba(0, 0, 0, .7);
+    min-height: 300px;
+}
+
+.profile-img {
+    position: absolute;
+    margin: 0;
+    top: 180px;
+    right: 480px;
+}
+
+.profile-img img {
+    border-radius: 50%;
+    border: 10px solid #EDEFF5;
+}
+
+.head {
+    color: white;
+    padding-top: 40px;
+}
+
+.head h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.head p {
+    font-size: 20px;
+}
+
+.about-me {
+    padding-top: 160px;
+}
+
+.about-me p {
+    padding-top: 30px;
+    font-size: 18px;
+}
+
+.about-me h1 span {
+    border-bottom: 8px solid #DF3143;
+}
+
+.about-me img {
+    width: 30px;
+    margin-bottom: 14px;
+    margin-left: 5px;
+}
+
+.edu {
+    margin-top: 130px;
+}
+
+.pad {
+    padding-top: 30px;
+}
+
+.edu {
+    background-image: url("../img/Open-book-2560x1600-photography-wallpaper.jpg");
+    min-height: 300px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+
+#focus h4 {
+    color: #EDEFF5 !important;
+    font-weight: bold;
+}
+
+.edu span {
+    border-bottom: 8px solid #DF3143;
+}
+
+#focus p {
+    color: #ABA9B9 !important;
+}
+
+.act {
+    margin-top: 130px;
+}
+
+.act span {
+    border-bottom: 8px solid #DF3143;
+}
+
+.act ul {
+    margin-top: 20px;
+}
+
+.act ul a {
+    text-decoration: none;
+}
+
+.act ul a:hover {
+    background-color: #EDEFF5;
+}
+
+.pad1 {
+    margin-top: 100px;
+}
+
+.bg {
+    background-image: url("../img/skils.jpg");
+    min-height: 700px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.opaicity {
+    background-color: rgba(0, 0, 0, .7);
+    min-height: 700px;
+}
+
+.brd {
+    margin-right: 2px;
+    border-right: 4px solid black;
+}
+
+.pad1 img {
+    border-radius: 20px;
+    border: 5px solid white;
+}
+
+.pad1 h1 {
+    color: white;
+    font-weight: bold;
+}
+
+.bg span {
+    border-bottom: 8px solid #DF3143;
+}
+
+#contact span {
+    border-bottom: 8px solid #DF3143;
+}
